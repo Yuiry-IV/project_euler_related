@@ -1,1 +1,21 @@
-# project_euler_related
+# project euler related
+
+## Problem 810
+
+<div align="right"> 22/10/02 </div>
+
+By the [problem](https://projecteuler.net/problem=810) definition, sequence looks like:
+
+| index | element  |
+---:|:---:
+|1|2|
+|2|3|
+|3|7|
+|4|11|
+|5|13|
+|...|...|
+|10|41|
+
+Look up on OEIS for  `2,3,7,11,13 "41"`  give as A014580.
+
+Added [A014580](https://oeis.org/A014580): Binary irreducible polynomials (primes in the ring GF(2)[X]), evaluated at X=2.
